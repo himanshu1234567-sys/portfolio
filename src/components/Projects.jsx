@@ -33,14 +33,21 @@ function Projects() {
       des: "Created a React js app with 'TODO List'  capabilities involves a few steps"
     },
     {
-      title: "Project 4 - Youtube Video Streaming App ",
+      title: "Project 4 - Card swipe like a tinder app",
+      img: "/projects/portfolio.png",
+      gLink: "https://github.com/himanshu1234567-sys/portfolio",
+      lLink: "https://portfolio-himanshu1234567-sys.vercel.app/",
+      des: "Created a React JS Portfolio"
+    },
+    {
+      title: "Project 5 - Youtube Video Streaming App ",
       img: "/projects/3.jpeg",
       gLink: "https://github.com/himanshu1234567-sys/assignment-appdeployer/tree/develop",
       // lLink: "https://codesquarebrandistic.netlify.app/brandistic.html",
       des: "Created a React Native app with video streaming capabilities involves a few steps"
     },
     {
-      title: "Project 5 - Card swipe like a tinder app",
+      title: "Project 6- Card swipe like a tinder app",
       img: "/projects/4.jpg",
       gLink: "https://github.com/himanshu1234567-sys/NativeAssignment",
       // lLink: "https://codesquarebrandistic.netlify.app/brandistic.html",
